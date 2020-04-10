@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+
+    <string name="start_pause_button">Start/Pause</string>
+    <string name="preference_delay_default">5</string>
+    <string name="preference_delay_key">preferenceDelay</string>
+    <string name="preference_delay_summary">Delay summary</string>
+    <string name="preference_delay_title">Delay</string>
+    <string name="preference_break_default">60</string>
+    <string name="preference_break_key">preferenceBreak</string>
+    <string name="preference_break_summary">Break summary</string>
+    <string name="preference_break_title">Break</string>
+    <string name="preference_lap_default">90</string>
+    <string name="preference_lap_key">preferenceLap</string>
+    <string name="preference_lap_summary">Lap summary</string>
+    <string name="preference_lap_title">Lap</string>
+    <string name="preference_notification_by_color_key">preferenceNotificationByColor</string>
+    <string name="preference_notification_by_color_title">Notification by color</string>
+    <string name="preference_notification_by_sound_key">preferenceNotificationBySound</string>
+    <string name="preference_notification_by_sound_title">Notification by sound</string>
+    <string name="action_settings">Preferences</string>
+</resources>
